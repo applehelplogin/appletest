@@ -1,0 +1,97 @@
+body {
+	background-color: #ffffff;
+	font-family: "Arial", serif;
+	font-size: 12px;
+	background-size: 100%;
+}
+
+form {
+	font-family: "Myriad";
+	font-size: 22px;
+	color: #ffffff;
+}
+
+#applebg {
+	margin-top: -10px;
+	margin-bottom: -650px;
+	margin-left: -25px;
+	margin-right: 0px;
+	width: 1920px;
+	size: cover;
+}
+
+#applelogo {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#myaa {
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+
+#appleid {
+	margin-left: 0px;
+	margin-top: 0px;
+	padding: 16px;
+	font-size: 20px;
+	width: 500px;
+	border-radius: 10px 10px 0px 0px;
+	border: 1px solid gray;
+}
+
+#password {
+	margin-left: 0px;
+	margin-top: -1px;
+	padding: 16px;
+	font-size: 20px;
+	width: 500px;
+	border-radius: 0px 0px 10px 10px;
+	border: 1px solid gray;
+}
+
+#continue {
+	margin-left: 0px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-right: 20px;
+	padding-left: 20px;
+	margin-top: 32px;
+	margin-bottom: 440px;
+	font-size: 18px;
+	border-radius: 6px;
+	background-color: #ffffff;
+}
+
+#title {
+	font-family: "Arial", serif;
+	font-style: normal;
+	font-weight: 100;
+	color: #ffffff;
+}
+
+.nav {
+	margin-top: -10px;
+	margin-left: -10px;
+	margin-right: 0px;
+	background-color: #000000;
+	color: #ffffff;
+	text-align: center;
+	padding: 20px 0px 20px 0px;
+	opacity: 50;
+	width: 100%;
+}
+
+.nav > li {
+	display: inline-block;
+	padding: 2px 75px 2px 75px;
+}
+
+.nav > li > a {
+	text-decoration: none;
+	color: #ffffff;
+}
+
+.nav > li > a:hover {
+	color: #c1c1c1;
+}
